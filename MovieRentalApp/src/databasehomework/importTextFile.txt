@@ -1,0 +1,4 @@
+aseel  Avengers  125  PG-13  17/9/2019  5/5/2023  10/5/2023  action
+aram   War       120  PG-13  25/7/1999  15/4/2003 20/4/2003  Horror
+awj    Tarzan    123  G      23/3/2017  9/9/2020  10/9/2020  drama
+aseel  so        90   PG-13  15/3/2020  19/12/2021 1/1/2023  Horror
